@@ -9,6 +9,8 @@
       index
       index
       index
+      master index
+      master index
   </section>
 </template>
 
