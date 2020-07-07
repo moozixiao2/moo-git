@@ -25,5 +25,9 @@ export default {
     width: 100%;
     height: 200px;
     background-color: tomato;
+    color: #fff;
+    border-radius: 20px;
+    margin: 20px;
+    box-sizing: border-box;
 }
 </style>
