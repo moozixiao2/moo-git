@@ -29,5 +29,8 @@ export default {
     border-radius: 20px;
     margin: 20px;
     box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 </style>
